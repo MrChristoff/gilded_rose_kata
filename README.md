@@ -1,4 +1,4 @@
-# gilded_rose_kata
+## Gilded Rose
 
 ======================================
 Gilded Rose Requirements Specification
