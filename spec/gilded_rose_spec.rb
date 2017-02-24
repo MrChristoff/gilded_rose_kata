@@ -1,5 +1,5 @@
 # require File.join(File.dirname(__FILE__), 'gilded_rose')
-require 'GildedRose'
+require_relative '../lib/gilded_rose.rb'
 
 describe GildedRose do
 

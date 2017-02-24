@@ -1,4 +1,5 @@
-require_relative 'Item.rb'
+require_relative 'item.rb'
+require_relative 'standard_item.rb'
 
 class GildedRose
 
